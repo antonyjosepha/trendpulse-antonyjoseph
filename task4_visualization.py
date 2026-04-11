@@ -9,6 +9,7 @@ sns.set(style="whitegrid")
 # Load our dataset for Remote Work & Mental Health Dataset
 df = pd.read_csv("Impact_of_Remote_Work_on_Mental_Health.csv")
 
+"""
 # Plotting the age distribution
 plt.figure(figsize=(10, 6))
 sns.histplot(df['Age'], bins=15, kde=True, color='red')
@@ -40,4 +41,34 @@ sns.countplot(data=df, x='Mental_Health_Condition', palette='Set1')
 plt.title('Mental Health Condition of Employees')
 plt.xlabel('Mental Health Condition')
 plt.ylabel('Count')
+plt.show()
+"""
+
+plt.figure()
+
+plt.subplot(2,2,1)
+sns.histplot(df['Age'], bins=15, kde=True, color='red')
+plt.title('Age Distribution of Employees')
+plt.xlabel('Age')
+plt.ylabel('Frequency')
+
+plt.subplot(2,2,2)
+sns.boxplot(data=df, x='Years_of_Experience', y='Satisfaction_with_Remote_Work', palette='coolwarm')
+plt.title('Satisfaction with Remote Work by Years of Experience')
+plt.xlabel('Years of Experience')
+plt.ylabel('Satisfaction with Remote Work')
+
+plt.subplot(2,2,3)
+sns.countplot(data=df, x='Work_Location', hue='Productivity_Change', palette='Set2')
+plt.title('Work Location vs. Productivity Change')
+plt.xlabel('Work Location')
+plt.ylabel('Count')
+
+plt.subplot(2,2,4)
+sns.countplot(data=df, x='Mental_Health_Condition', palette='Set1')
+plt.title('Mental Health Condition of Employees')
+plt.xlabel('Mental Health Condition')
+plt.ylabel('Count')
+
+plt.tight_layout()
 plt.show()
