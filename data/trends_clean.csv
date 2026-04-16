@@ -1,0 +1,80 @@
+post_id,title,score,num_comments,author,collected_at,category
+47778306,"Show HN: Every CEO and CFO change at US public companies, live from SEC",93,41,porsche959,2026-04-15 20:59:54.948334,entertainment
+47778617,MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints,30,10,ingero_io,2026-04-15 20:59:56.130569,technology
+47779730,Daily Claude outage is upon us. Waiting for Claude Status to update,143,116,redm,2026-04-15 21:00:00.604678,technology
+47774971,Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference,176,109,takumi123,2026-04-15 21:00:02.372420,technology
+47708627,Pretty Fish: A better mermaid diagram editor,47,10,pastelsky,2026-04-15 21:00:04.734861,technology
+47778920,US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf],43,29,1vuio0pswjnm7,2026-04-15 21:00:05.326987,technology
+47778308,AI ruling prompts warnings from US lawyers: Your chats could be used against you,58,29,alephnerd,2026-04-15 21:00:05.911790,technology
+47778933,Sam Vimes 'Boots' Theory of Socio-Economic Unfairness,44,29,latexr,2026-04-15 21:00:07.795605,technology
+47778050,Study: Back-to-basics approach can match or outperform AI in language analysis,9,0,giuliomagnifico,2026-04-15 21:00:08.494780,technology
+47776667,"Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",144,78,birdculture,2026-04-15 21:00:10.961408,technology
+47728662,Picasso’s Guernica (Gigapixel),181,72,guigar,2026-04-15 21:00:11.564206,technology
+47768133,Claude Code Routines,684,381,matthieu_bl,2026-04-15 21:00:14.749463,technology
+47768339,Turn your best AI prompts into one-click tools in Chrome,183,101,xnx,2026-04-15 21:00:15.927720,technology
+47767676,5NF and Database Design,186,70,petalmind,2026-04-15 21:00:16.543950,technology
+47778038,"Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",18,7,dmajka,2026-04-15 21:00:18.419334,technology
+47778762,"Allbirds announces pivot from shoes to AI, stock explodes 175%",32,11,1vuio0pswjnm7,2026-04-15 21:00:19.006509,technology
+47758870,Let's talk space toilets,206,54,zdw,2026-04-15 21:00:20.287115,science
+47739278,My adventure in designing API keys,90,70,vjay15,2026-04-15 21:00:25.368798,technology
+47772282,What Claude Code's Source Revealed About AI Engineering Culture,50,33,lucketone,2026-04-15 21:00:27.954822,technology
+47775183,Amazon to acquire Globalstar and expand Amazon Leo satellite network,110,89,homarp,2026-04-15 21:00:31.609512,worldnews
+47738962,Troubleshooting Email Delivery to Microsoft Users,79,22,rozumem,2026-04-15 21:00:36.073216,technology
+47768750,Show HN: Plain – The full-stack Python framework designed for humans and agents,88,49,focom,2026-04-15 21:00:42.849535,technology
+47766370,Show HN: LangAlpha – what if Claude Code was built for Wall Street?,140,49,zc2610,2026-04-15 21:00:43.436695,technology
+47772018,Your codebase doesn't care how it got written,25,22,robbyrussell,2026-04-15 21:00:44.130460,technology
+47778771,Bosses say AI boosts productivity – workers say they're drowning in 'workslop',15,3,Brajeshwar,2026-04-15 21:00:46.003098,technology
+47723729,"Game: Print Gallery Of An Artist, A brief exploration of recursive spaces",28,5,zdw,2026-04-15 21:00:48.356647,sports
+47761625,Multi-Agentic Software Development Is a Distributed Systems Problem,114,61,tie-in,2026-04-15 21:00:50.949329,technology
+47772048,Fuck the cloud (2009),158,93,downbad_,2026-04-15 21:00:53.545825,technology
+47776723,"'Seeking connection': video game where players stopped shooting, started talking",47,56,andsoitis,2026-04-15 21:01:00.898223,sports
+47770124,Gas Town: From Clown Show to v1.0,104,151,martythemaniak,2026-04-15 21:01:09.269756,entertainment
+47753472,Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets,463,268,m-hodges,2026-04-15 21:01:22.366237,sports
+47756569,"Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",174,44,cvrajeesh,2026-04-15 21:01:33.391998,entertainment
+47771417,SpaceX Is Basically a Huge Meme Stock,61,23,breve,2026-04-15 21:01:49.875688,science
+47714770,Show HN: Run GUIs as Scripts,21,7,zero-st4rs,2026-04-15 21:02:00.634816,entertainment
+47724352,Filing the corners off my MacBooks,1400,675,normanvalentine,2026-04-15 21:02:04.300934,entertainment
+47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,514,298,a-ve,2026-04-15 21:02:17.672359,entertainment
+47741460,How long-distance couples use digital games to facilitate intimacy (2025),133,38,radeeyate,2026-04-15 21:02:28.865781,sports
+47771918,"Show HN: Uninum – All elementary functions from a single operator, in Python",5,1,brumbelow,2026-04-15 21:02:34.546137,entertainment
+47762851,Show HN: A stateful UI runtime for reactive web apps in Go,13,4,derstruct,2026-04-15 21:02:53.656854,entertainment
+47738343,The Physics of GPS,166,35,maouida,2026-04-15 21:03:00.392508,science
+47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),54,0,mooreds,2026-04-15 21:03:06.964014,entertainment
+47698455,Starfling: A one-tap endless orbital slingshot game in a single HTML file,625,153,iceberger2001,2026-04-15 21:03:12.734917,sports
+47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),242,109,Rochus,2026-04-15 21:03:19.223676,entertainment
+47760360,An Amazon warehouse worker died on the job at Oregon facility,19,5,cebert,2026-04-15 21:03:28.296592,worldnews
+47769183,"40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal",169,284,randycupertino,2026-04-15 21:03:36.251258,worldnews
+47713495,Team from ETH Zurich make high quality quantum swap gate using a geometric phase,239,56,joko42,2026-04-15 21:03:43.608992,sports
+47722333,"Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",439,277,neversaydie,2026-04-15 21:03:46.314711,worldnews
+47761825,Roblox devs now need a subscription to share their games freely,70,69,hallole,2026-04-15 21:03:59.447793,sports
+47770323,Why Amazon Is Buying Starlink Rival Globalstar in $11B Deal,17,8,JumpCrisscross,2026-04-15 21:04:10.769573,worldnews
+47701769,The Bra-and-Girdle Maker That Fashioned the Impossible for NASA,135,19,sohkamyung,2026-04-15 21:04:28.716209,science
+47764975,Man suspected of Molotov attack Sam Altmans home charged with attempted murder,21,5,Bender,2026-04-15 21:04:41.339292,worldnews
+47721997,Show HN: FluidCAD – Parametric CAD with JavaScript,157,38,maouida,2026-04-15 21:04:44.044251,entertainment
+47761442,Show HN: Deflect One – command line dashboard for managing Linux servers via SSH,8,7,whitemanv,2026-04-15 21:04:46.861091,entertainment
+47708818,Native Instant Space Switching on macOS,643,328,PaulHoule,2026-04-15 21:04:55.589765,science
+47698111,Bevy game development tutorials and in-depth resources,139,82,GenericCanadian,2026-04-15 21:04:58.409364,sports
+47733066,New synthesis of astronomical measurements shows Hubble tension is real,75,14,anigbrowl,2026-04-15 21:05:16.452194,entertainment
+47721946,JSON formatter Chrome plugin now closed and injecting adware,287,136,jkl5xx,2026-04-15 21:05:23.024400,worldnews
+47705413,Show HN: I built a Cargo-like build tool for C/C++,177,169,randerson_112,2026-04-15 21:05:39.441951,entertainment
+47763185,An open letter to the UK Government on digital privacy,19,5,vsajip,2026-04-15 21:05:43.049564,worldnews
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",48,25,behat,2026-04-15 21:05:50.966351,entertainment
+47722011,Show HN: A WYSIWYG word processor in Python,91,39,chrisecker,2026-04-15 21:05:57.454342,entertainment
+47749295,Show HN: Equirect – a Rust VR video player,14,1,greggman65,2026-04-15 21:06:03.236454,sports
+47747248,"Haunt, the 70s text adventure game, is now playable on a website",82,26,jscalo,2026-04-15 21:06:12.220430,sports
+47755938,Warp,7,1,Resayours,2026-04-15 21:06:18.008673,worldnews
+47758453,Your Favorite Movies Were CIA Propaganda [video],34,4,joe_mamba,2026-04-15 21:06:33.243130,entertainment
+47721255,Show HN: Eve – Managed OpenClaw for work,72,41,zachdive,2026-04-15 21:06:44.065496,entertainment
+47757552,Show HN: Continual Learning with .md,34,28,wenhan_zhou,2026-04-15 21:06:55.373260,entertainment
+47730522,Show HN: Waffle – Native macOS terminal that auto-tiles sessions into a grid,40,21,olleeolleeollee,2026-04-15 21:06:59.155361,entertainment
+47728323,Relics of the Heroic Age of Manned Space Flight,20,1,zdgeier,2026-04-15 21:07:06.207069,science
+47762994,Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It,86,89,adulion,2026-04-15 21:07:13.871474,worldnews
+47699470,The Life and Death of the Book Review,30,7,lermontov,2026-04-15 21:07:19.759465,entertainment
+47715339,Show HN: Keeper – embedded secret store for Go (help me break it),63,33,babawere,2026-04-15 21:07:25.436156,entertainment
+47692043,Muse Spark: Scaling towards personal superintelligence,392,367,chabons,2026-04-15 21:07:32.112869,worldnews
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",120,36,pruz,2026-04-15 21:07:34.708239,sports
+47745300,Show HN: A social feed with no strangers,9,5,rpatni,2026-04-15 21:07:41.118228,entertainment
+47754329,Show HN: Farchive – SQLite-backed history-preserving compressed archive,6,0,ekns,2026-04-15 21:07:43.713143,entertainment
+47767172,IMF warns global economy at risk of recession if Iran war persists,8,0,Cider9986,2026-04-15 21:07:51.766361,worldnews
+47765164,Amazon to acquire Globalstar and expand Amazon Leo satellite network,9,1,tosh,2026-04-15 21:07:58.964839,worldnews
+47764690,Amazon to Buy Satellite Operator Globalstar,8,0,marc__1,2026-04-15 21:08:07.212366,worldnews
